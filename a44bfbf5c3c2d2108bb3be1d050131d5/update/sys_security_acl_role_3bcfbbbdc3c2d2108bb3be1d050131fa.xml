@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-24 15:51:25</sys_created_on>
+        <sys_id>3bcfbbbdc3c2d2108bb3be1d050131fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_216734_cadastro_tabela1.x_216734_cadastro.admin</sys_name>
+        <sys_package display_value="Cadastro" source="x_216734_cadastro">a44bfbf5c3c2d2108bb3be1d050131d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cadastro">a44bfbf5c3c2d2108bb3be1d050131d5</sys_scope>
+        <sys_security_acl display_value="x_216734_cadastro_tabela1">3bcfbbbdc3c2d2108bb3be1d05013120</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3bcfbbbdc3c2d2108bb3be1d050131fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-24 15:51:25</sys_updated_on>
+        <sys_user_role display_value="x_216734_cadastro.admin" name="x_216734_cadastro.admin">bc4bfbf5c3c2d2108bb3be1d050131da</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

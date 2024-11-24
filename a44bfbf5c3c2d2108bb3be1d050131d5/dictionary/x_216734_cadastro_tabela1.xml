@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eecf7bbdc3c2d2108bb3be1d05013183" extends="task" label="tabela1" max_length="40" name="x_216734_cadastro_tabela1" type="collection"/>
+</database>
